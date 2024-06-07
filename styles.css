@@ -1,0 +1,136 @@
+.brand{
+    font-size: large;
+    display: inline;
+    
+    
+}
+.banner{
+    text-align: center;
+    color: black;
+    margin-top: 10%;
+    background-image: url(images/banner.jpg);
+    
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    margin: auto;
+   padding: 240px 0;
+   padding: 240;
+   }
+
+    
+.hari{
+    padding-top: 10px;
+    width: 80%;
+}
+
+.side{
+    margin-left: 720px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+h4{
+    padding-left: 20px;
+}
+.Features{
+    margin: 0;
+    padding-bottom: 5%;
+    padding-top: 10%;
+}
+.gallery{
+    margin-left: 50px;
+    
+}
+.image1{
+    width: 500px;
+    height: 300px;
+    padding-bottom: 20px;
+}
+.image2{
+    width: 400px;
+    height: 300px;
+    padding-bottom: 20px;
+}
+.image3{
+    width: 350px;
+    height: 300px;
+    padding-bottom: 20px;
+}
+
+
+.image4{
+    width: 300px;
+    height: 300px;
+    padding-bottom: 20px;
+}
+.image5{
+    width: 300px;
+    height: 300px;
+    padding-bottom: 20px;
+}
+.image6{
+    width: 300px;
+    height: 300px;
+    padding-bottom: 20px;
+}
+.image7{
+    width: 350px;
+    height: 300px;
+    padding-bottom: 20px;
+}
+.image8{
+    width: 600px;
+    height: 600px;
+    padding-bottom: 20px;
+}
+.image9{
+    width: 330px;
+    height: 600px;
+    padding-bottom: 20px;
+}
+.image10{
+    width: 320px;
+    height: 600px;
+    padding-bottom: 20px;
+    }
+.about{
+    margin-top: 10%;
+    padding: 10%;
+}
+.vicky{
+    margin-top: 30px;
+}
+.gal{
+    padding-top: 10%;
+}
+.conect{
+    background-image: url(images/gallary1harvesting-rice-by-hand-wallpaper-preview.jpg);
+    text-align: center;
+    color: black;
+    margin-top: 5%;
+    
+    
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+   padding: 240px 0;
+   padding: 240;
+}
+.submit{
+    border: 1px gray solid;
+    border-radius: 10%;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col2{
+    padding-top: 5%;
+}
+.col1{
+    padding: bottom 5%; ;
+}
